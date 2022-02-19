@@ -13,3 +13,5 @@ configuration:
 
 - install some apps
 - restart services
+
+https://medium.com/@ssnetanel/build-a-kubernetes-cluster-using-k3s-on-proxmox-via-ansible-and-terraform-c97c7974d4a5
